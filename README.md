@@ -33,6 +33,7 @@ I'm Kn1ght, welcome to my github!
 - [Playable Endeavors](https://gamebanana.com/mods/437374)
 - [Dave and Bambi: Dimensional Deep End v 0.5 /UNRELEASED/]()
 - [Denpa Engine](https://github.com/UmbratheUmbreon/PublicDenpaEngine)
+- [Voxie Engine /UNRELEASED BETA/]()
 
 ...And more to come and release!
 
